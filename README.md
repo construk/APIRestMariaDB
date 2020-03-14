@@ -30,7 +30,8 @@ Pomelo: [Pomelo.EntityFrameworkCore.MySql](https://github.com/PomeloFoundation/P
     * **Database:** Select the database that you are going to connect.
     * **User:** Set the user from database that your going to log in.
     * **Password:** Set the password from database that your going to log in. 
-    * **AllowedHosts:** You can restrict the connections to your API.
+
+* **AllowedHosts:** You can restrict the connections to your API.
 
 ----------------------------------------
 
