@@ -14,7 +14,7 @@ namespace PruebaApi.Data
         {
         }
 
-        public DbSet<PruebaApi.Models.Test> Test { get; set; }
+        public DbSet<Test> Test { get; set; }
 
         public virtual DbSet<Test> TestList { get; set; }
         
@@ -35,6 +35,6 @@ namespace PruebaApi.Data
                 .HasCharSet("utf8")
                 .HasCollation("utf8_general_ci");
             });
-    }
+        }
     }
 }
