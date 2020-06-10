@@ -216,4 +216,4 @@ public async Task DeleteTest([FromForm]int id)
 ```
 
 ### Special thanks to contributor 
-* [Guillermo Vera](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png): Thanks for explaining this to me.
+* [Guillermo Vera](https://github.com/vfguille96): Thanks for explaining this to me.
